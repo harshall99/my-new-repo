@@ -2,3 +2,4 @@ this is example
 this is commit
 this is commit 2
 this is merge
+this is diff 1
